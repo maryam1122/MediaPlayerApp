@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MediaPlayer.Controller/1.0.0": {
+        "dependencies": {
+          "MediaPlayer.Core": "1.0.0",
+          "MediaPlayer.Service": "1.0.0"
+        },
+        "runtime": {
+          "MediaPlayer.Controller.dll": {}
+        }
+      },
+      "MediaPlayer.Core/1.0.0": {
+        "runtime": {
+          "MediaPlayer.Core.dll": {}
+        }
+      },
+      "MediaPlayer.Service/1.0.0": {
+        "dependencies": {
+          "MediaPlayer.Core": "1.0.0"
+        },
+        "runtime": {
+          "MediaPlayer.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MediaPlayer.Controller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediaPlayer.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MediaPlayer.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

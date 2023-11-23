@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Controller/MediaPlayer.Controller.csproj": {}
+  },
+  "projects": {
+    "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Controller/MediaPlayer.Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Controller/MediaPlayer.Controller.csproj",
+        "projectName": "MediaPlayer.Controller",
+        "projectPath": "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Controller/MediaPlayer.Controller.csproj",
+        "packagesPath": "/Users/maryambibi/.nuget/packages/",
+        "outputPath": "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Controller/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/maryambibi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/MediaPlayer.Core.csproj": {
+                "projectPath": "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/MediaPlayer.Core.csproj"
+              },
+              "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/MediaPlayer.Service.csproj": {
+                "projectPath": "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/MediaPlayer.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/MediaPlayer.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/MediaPlayer.Core.csproj",
+        "projectName": "MediaPlayer.Core",
+        "projectPath": "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/MediaPlayer.Core.csproj",
+        "packagesPath": "/Users/maryambibi/.nuget/packages/",
+        "outputPath": "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/maryambibi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/MediaPlayer.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/MediaPlayer.Service.csproj",
+        "projectName": "MediaPlayer.Service",
+        "projectPath": "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/MediaPlayer.Service.csproj",
+        "packagesPath": "/Users/maryambibi/.nuget/packages/",
+        "outputPath": "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/maryambibi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/MediaPlayer.Core.csproj": {
+                "projectPath": "/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/MediaPlayer.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

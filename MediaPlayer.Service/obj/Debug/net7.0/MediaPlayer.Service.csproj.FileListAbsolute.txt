@@ -1,0 +1,30 @@
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/bin/Debug/net7.0/MediaPlayer.Service.deps.json
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/bin/Debug/net7.0/MediaPlayer.Service.dll
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/bin/Debug/net7.0/MediaPlayer.Service.pdb
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/bin/Debug/net7.0/MediaPlayer.Core.dll
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/bin/Debug/net7.0/MediaPlayer.Core.pdb
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.csproj.AssemblyReference.cache
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.AssemblyInfoInputs.cache
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.AssemblyInfo.cs
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.csproj.CoreCompileInputs.cache
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.csproj.CopyComplete
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.dll
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/obj/Debug/net7.0/refint/MediaPlayer.Service.dll
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.pdb
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Service/obj/Debug/net7.0/ref/MediaPlayer.Service.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/bin/Debug/net7.0/MediaPlayer.Service.deps.json
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/bin/Debug/net7.0/MediaPlayer.Service.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/bin/Debug/net7.0/MediaPlayer.Service.pdb
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/bin/Debug/net7.0/MediaPlayer.Core.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/bin/Debug/net7.0/MediaPlayer.Core.pdb
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.csproj.AssemblyReference.cache
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.AssemblyInfoInputs.cache
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.AssemblyInfo.cs
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.csproj.CoreCompileInputs.cache
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.csproj.CopyComplete
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/obj/Debug/net7.0/refint/MediaPlayer.Service.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/obj/Debug/net7.0/MediaPlayer.Service.pdb
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Service/obj/Debug/net7.0/ref/MediaPlayer.Service.dll

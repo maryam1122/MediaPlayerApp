@@ -1,0 +1,44 @@
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Framework
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Framework.deps.json
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Framework.runtimeconfig.json
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Framework.dll
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Framework.pdb
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Controller.dll
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Core.dll
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Service.dll
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Controller.pdb
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Core.pdb
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Service.pdb
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.csproj.AssemblyReference.cache
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.AssemblyInfoInputs.cache
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.AssemblyInfo.cs
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.csproj.CoreCompileInputs.cache
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.csproj.CopyComplete
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.dll
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/obj/Debug/net7.0/refint/MediaPlayer.Framework.dll
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.pdb
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.genruntimeconfig.cache
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Framework/obj/Debug/net7.0/ref/MediaPlayer.Framework.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Framework
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Framework.deps.json
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Framework.runtimeconfig.json
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Framework.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Framework.pdb
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Controller.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Core.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Service.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Controller.pdb
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Core.pdb
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/bin/Debug/net7.0/MediaPlayer.Service.pdb
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.csproj.AssemblyReference.cache
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.AssemblyInfoInputs.cache
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.AssemblyInfo.cs
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.csproj.CoreCompileInputs.cache
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.csproj.CopyComplete
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/obj/Debug/net7.0/refint/MediaPlayer.Framework.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.pdb
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/obj/Debug/net7.0/MediaPlayer.Framework.genruntimeconfig.cache
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Framework/obj/Debug/net7.0/ref/MediaPlayer.Framework.dll

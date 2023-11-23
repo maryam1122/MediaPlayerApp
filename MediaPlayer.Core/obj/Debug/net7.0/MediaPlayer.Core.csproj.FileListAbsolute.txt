@@ -1,0 +1,23 @@
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Core/bin/Debug/net7.0/MediaPlayer.Core.deps.json
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Core/bin/Debug/net7.0/MediaPlayer.Core.dll
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Core/bin/Debug/net7.0/MediaPlayer.Core.pdb
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Core/obj/Debug/net7.0/MediaPlayer.Core.csproj.AssemblyReference.cache
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Core/obj/Debug/net7.0/MediaPlayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Core/obj/Debug/net7.0/MediaPlayer.Core.AssemblyInfoInputs.cache
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Core/obj/Debug/net7.0/MediaPlayer.Core.AssemblyInfo.cs
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Core/obj/Debug/net7.0/MediaPlayer.Core.csproj.CoreCompileInputs.cache
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Core/obj/Debug/net7.0/MediaPlayer.Core.dll
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Core/obj/Debug/net7.0/refint/MediaPlayer.Core.dll
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Core/obj/Debug/net7.0/MediaPlayer.Core.pdb
+/Users/alia/Documents/FS16/MediaPlayer/MediaPlayer.Core/obj/Debug/net7.0/ref/MediaPlayer.Core.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/bin/Debug/net7.0/MediaPlayer.Core.deps.json
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/bin/Debug/net7.0/MediaPlayer.Core.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/bin/Debug/net7.0/MediaPlayer.Core.pdb
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/obj/Debug/net7.0/MediaPlayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/obj/Debug/net7.0/MediaPlayer.Core.AssemblyInfoInputs.cache
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/obj/Debug/net7.0/MediaPlayer.Core.AssemblyInfo.cs
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/obj/Debug/net7.0/MediaPlayer.Core.csproj.CoreCompileInputs.cache
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/obj/Debug/net7.0/MediaPlayer.Core.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/obj/Debug/net7.0/refint/MediaPlayer.Core.dll
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/obj/Debug/net7.0/MediaPlayer.Core.pdb
+/Users/maryambibi/Downloads/MediaPlayer 3/MediaPlayer.Core/obj/Debug/net7.0/ref/MediaPlayer.Core.dll
